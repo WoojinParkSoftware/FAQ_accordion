@@ -1,0 +1,59 @@
+body{
+    background-color: #f9eeff;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Work Sans';
+    
+}
+
+aside{
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+}
+
+.card-container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    width: 30%;
+    height: 40%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.center-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card-title-component{
+    display: flex;
+    font-size: 3rem;
+    font-weight: bold;
+    justify-content: left;
+    align-items: center;
+    gap: 20px;
+}
+
+.card-questions{
+    display: felx;
+    font-size: 3rem;
+    font-weight: bold;
+    
+}
+
+h2{
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+p{
+    font-size:
+
+    ;}
